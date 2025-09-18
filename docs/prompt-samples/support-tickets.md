@@ -1,0 +1,17 @@
+# Support Ticket Samples
+---
+- Can't log into account: Tried resetting password, not getting the email.
+- Package says delivered, but not received: What should I do?
+- Solar Lamp not charging after a full day in the sun: Is it broken?
+- Shipping cost seems wrong: It says $25 but I thought it was free shipping over $50. My order is $75.
+- Quantum Headphones disconnecting from laptop: Is this a known issue?
+- Two items missing from order.
+- Want to leave a product review: Can't find where to do it on the site.
+- Replacement parts for Eco-Friendly Blender: The lid broke.
+- Starlight Projector page shows "out of stock" but Instagram says restocked: Is this an error?
+- Order no. 1234 hasn't shipped yet: The tracking info hasn't updated.
+- Cosmic Drone battery life only 5 minutes: Not the 20 minutes advertised.
+- Change shipping address for order no. 5678: Wrong street number entered.
+- "Payment failed" error at checkout: Card information is correct.
+- Zenith Smartwatch pairing issue: Instructions were confusing.
+- Can't find tracking link for order.
