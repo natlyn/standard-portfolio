@@ -1,5 +1,4 @@
 ---
-
 description: Create FAQ entries from customer support tickets.
 model: GPT-4.1
 ---
