@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: "Sample: Working with AI Systems — A Dev Reference"
+title: "Working with AI Systems — A Dev Reference"
 ---
 
 # Working with AI Systems: A Developer Reference

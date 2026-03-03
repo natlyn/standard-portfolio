@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "Sample: FlowDesk Onboarding Guide"
+title: "FlowDesk Onboarding Guide"
 ---
 
 # Getting started with FlowDesk

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: "Sample: Spoonacular API quickstart"
+title: "Spoonacular API quickstart"
 ---
 
 # Spoonacular API quickstart guide

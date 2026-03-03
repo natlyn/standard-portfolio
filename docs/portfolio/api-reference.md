@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: "Sample: TaskBridge API reference"
+title: "TaskBridge API reference"
 ---
 
 # TaskBridge API reference

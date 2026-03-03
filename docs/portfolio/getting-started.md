@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: "Sample: Aura analytics getting started"
+title: "Aura analytics getting started"
 ---
 
 # Getting started with Aura analytics

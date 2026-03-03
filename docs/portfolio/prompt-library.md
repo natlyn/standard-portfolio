@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: "Sample: AI Prompt Library for Technical Writers"
+title: "AI Prompt Library for Technical Writers"
 ---
 
 # AI Prompt library for technical writers
