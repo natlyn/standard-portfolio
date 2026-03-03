@@ -6,7 +6,7 @@ slug: /
 
 # About Nathline Caristil
 
-With close to  years of experience, I bridge the gap between complex software and clear documentation. My expereince spans REST APIs, enterprise SaaS, and the full SDLC. I enjoy building AI-driven workflos that help engineering teams ship better docs faster. 
+With close to 10 years of experience, I bridge the gap between complex software and clear documentation. My expereince spans REST APIs, enterprise SaaS, LLM models, and incorporating docs across the full SDLC. I also enjoy building AI-driven workflows that help engineering teams ship better docs faster. 
 
 Take a look at my work:
 - [Portfolio](./portfolio/index.md) — Writing samples across all specialties
