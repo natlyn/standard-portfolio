@@ -19,14 +19,14 @@
 
 Postman allows users to perform CRUD (create, read, update, or delete) operations on RESTful APIs using the `POST`, `GET`, `PUT`, and `DELETE` HTTP methods. This guide will only cover the GET method.
 
-### GET random recipes
+### Get random recipes
 
 You can access random recipes and filter requests by tags to determine your desired output. These tags can be `meal types`, `cuisines`, `specific diets`, or other strict intolerances.
 
 Let's configure your first request to return 10 random `Italian cuisine` meals that do not have anchovies as an ingredient:
 
 1. From your new workspace, add a new request and name it (for example, "Get random recipes"), then save your changes.
-2. In the **Params** section, enter your key-value pairs to configure your request as follows. The description entry is optional and a great way to keep track of your key values.
+2. In the **Params** field, enter your key-value pairs to configure your request as follows. The description entry is optional and a great way to keep track of your key values.
 
 | Key            | Value      | Description                                                                 |
 |----------------|------------|-----------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ https://api.spoonacular.com/recipes/random?limitLicense=true&includeNutrition=fa
 
 You can also request recipes similar to a specific dish by its recipe ID. The following example returns 10 recipes similar to the one specified by an ID.
 1. From your Spoonacular workspace in Postman, add a new request and name it (for example, "Get similar recipes"), then save your changes.
-2. In the **Params** section, enter your key-value pairs to configure your request as follows.
+1. In the **Params** section, enter your key-value pairs to configure your request as follows.
 
 | Key            | Value      | Description                                                                 |
 |----------------|------------|-----------------------------------------------------------------------------|
